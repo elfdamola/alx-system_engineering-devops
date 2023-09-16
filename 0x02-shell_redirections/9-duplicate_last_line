@@ -1,3 +1,2 @@
 #!/bin/bash
-cat 'tail -1 iacta' >> iacta
-case 
+tail -1 iacta >> iacta
